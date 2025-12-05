@@ -15,6 +15,10 @@
 teto_advisor = {
 	name = "SETTINGS_VOICE_TYPE_vo_teto_voice"
     icon = "gfx/interface/icons/teto_advisor.dds"
+
+	playable = {
+		always = yes
+	}
 	
 	weight = {
 		base = 0
