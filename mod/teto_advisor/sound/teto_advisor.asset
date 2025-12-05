@@ -1,4 +1,4 @@
-# sound {} 					Define new non-vanilla sounds
+# sound {} 					Define new non-vanilla sound file
 #
 # soundeffect {} 			Define list of names of sound files that will later override vanilla lines.
 #                			As I understand, sound is chosen randomly from sounds with equal weight.
@@ -8,6 +8,30 @@
 #   soundfileoverrides {} 	override vanilla sound files
 #   soundeffectoverrides {} override vanilla lines with ones from soundeffect
 # }
+
+# Paragon
+sound = {
+	name = "teto_advisor_notification_agenda_available_01"
+	file = "vo/teto_advisor/advisor_notification_agenda_available_01.wav"
+	volume = 1
+}
+sound = {
+	name = "teto_advisor_notification_agenda_ready_01"
+	file = "vo/teto_advisor/advisor_notification_agenda_ready_01.wav"
+	volume = 1
+}
+sound = {
+	name = "teto_advisor_notification_legendary_leader_01"
+	file = "vo/teto_advisor/advisor_notification_legendary_leader_01.wav"
+	volume = 1
+}
+sound = {
+	name = "teto_advisor_notification_planetary_governor_01"
+	file = "vo/teto_advisor/advisor_notification_planetary_governor_01.wav"
+	volume = 1
+}
+
+# Vanilla voice lines
 soundeffect = {
 	name = teto_advisor_notification_alien_empire_communication
 	sounds = {
@@ -209,7 +233,7 @@ soundeffect = {
 soundeffect = {
 	name = teto_advisor_notification_hostile_fleet_detected
 	sounds = {
-		sound = advisor_notification_enemy_fleet_approaching_01
+		sound = advisor_notification_hostile_fleet_detected_01
 	} 
 	volume = 1
 	max_audible = 1
@@ -494,6 +518,44 @@ soundeffect = {
 	max_audible = 1
 	max_audible_behaviour = fail
 }
+# Paragon
+soundeffect = {
+	name = teto_advisor_notification_agenda_available
+	sounds = {
+		sound = teto_advisor_notification_agenda_available_01
+	} 
+	volume = 1
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+soundeffect = {
+	name = teto_advisor_notification_agenda_ready
+	sounds = {
+		sound = teto_advisor_notification_agenda_ready_01
+	} 
+	volume = 1
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+soundeffect = {
+	name = teto_advisor_notification_legendary_leader
+	sounds = {
+		sound = teto_advisor_notification_legendary_leader_01
+	} 
+	volume = 1
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+soundeffect = {
+	name = teto_advisor_notification_planetary_governor
+	sounds = {
+		sound = teto_advisor_notification_planetary_governor_01
+	} 
+	volume = 1
+	max_audible = 1
+	max_audible_behaviour = fail
+}
+
 soundgroup = {
 	name = teto_advisor
 	sort_order = 100
@@ -611,5 +673,10 @@ soundgroup = {
 		advisor_notification_tile_blocker_clear = teto_advisor_notification_tile_blocker_clear
 		advisor_notification_unidentified_object = teto_advisor_notification_unidentified_object
 		advisor_notification_wormhole_station_lost = teto_advisor_notification_wormhole_station_lost
+		# Paragon
+		advisor_tutorial_agenda_available = teto_advisor_notification_agenda_available
+		advisor_tutorial_agenda_ready = teto_advisor_notification_agenda_ready
+		advisor_tutorial_legendary_leader = teto_advisor_notification_legendary_leader
+		advisor_tutorial_planetary_governor = teto_advisor_notification_planetary_governor
 	}
 }

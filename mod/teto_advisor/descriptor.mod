@@ -3,4 +3,5 @@ tags={
 	"Sound"
 }
 name="Teto Advisor"
-supported_version="v4.2.*"
+picture="thumbnail.png"
+supported_version="v4.*"
