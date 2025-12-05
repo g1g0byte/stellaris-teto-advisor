@@ -1,0 +1,7 @@
+# sound {} used to define new non-vanilla sounds
+# soundeffect {} define list of names of sound files that will later overwrite vanilla lines
+# soundgroup {
+#   soundfileoverrides {} overwrite vanilla sound files
+#   soundeffectoverrides {} overwrite vanilla lines with ones from soundeffect
+# }
+
