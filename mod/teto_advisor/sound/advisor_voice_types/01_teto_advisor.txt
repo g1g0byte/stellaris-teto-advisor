@@ -3,7 +3,7 @@
 # If there are ties, the first one scripted in this file wins.
 # The order of the voice types in this file also defines the order of the voice types in the selection UI.
 #
-# soundgroup = {		# much match the name of a sound group
+# soundgroup = {			# much match the name of a sound group
 #	name = "KEY"			# localization key for display name. default: key of this advisor voice type
 #	icon = "icon.dds"		# path to displayed icon, no icon if empty. default: empty
 #
@@ -15,7 +15,7 @@
 teto_advisor = {
 	name = "SETTINGS_VOICE_TYPE_teto_advisor"
 	icon = "gfx/interface/icons/teto_advisor.dds"
-	
+
 	playable = {
 		always = yes
 	}

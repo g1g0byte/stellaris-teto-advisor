@@ -556,6 +556,73 @@ soundeffect = {
 	max_audible_behaviour = fail
 }
 
+# Category to hold the lines
+category = {
+	# as far as I understand categories append - we can use the vanilla voice and these lines will be added
+	# by corresponding to one of Stellaris' categories it will be controllable by appropriate slider in options menu
+	name = "Voice"
+	soundeffects = {
+		teto_advisor_notification_alien_empire_communication
+		teto_advisor_notification_alien_federation_formed
+		teto_advisor_notification_alien_spaceport_engaged
+		teto_advisor_notification_alien_vessel_encountered
+		teto_advisor_notification_building_ruined
+		teto_advisor_notification_colonization_progress
+		teto_advisor_notification_colony_established
+		teto_advisor_notification_colony_ship_destroyed
+		teto_advisor_notification_colony_ship_under_attack
+		teto_advisor_notification_construction_complete
+		teto_advisor_notification_construction_ship_destroyed
+		teto_advisor_notification_construction_ship_under_attack
+		teto_advisor_notification_debris_analysed
+		teto_advisor_notification_discovery_detected
+		teto_advisor_notification_enemy_declared_war
+		teto_advisor_notification_enemy_invasion_defeated
+		teto_advisor_notification_enemy_troops_landing
+		teto_advisor_notification_evade_hostile_fleet
+		teto_advisor_notification_federation_formed
+		teto_advisor_notification_fleet_destroyed
+		teto_advisor_notification_frontier_outpost_lost
+		teto_advisor_notification_generic_war_declare
+		teto_advisor_notification_hostile_fleet_detected
+		teto_advisor_notification_hostile_fleet_engaged
+		teto_advisor_notification_hostile_station_engaged
+		teto_advisor_notification_incoming_transmission
+		teto_advisor_notification_invasion_enemy_won
+		teto_advisor_notification_invasion_failed
+		teto_advisor_notification_invasion_progress
+		teto_advisor_notification_invasion_success
+		teto_advisor_notification_military_station_lost
+		teto_advisor_notification_mining_station_lost
+		teto_advisor_notification_observation_post_lost
+		teto_advisor_notification_outpost_station_lost
+		teto_advisor_notification_planet_in_revolt
+		teto_advisor_notification_player_declare_war
+		teto_advisor_notification_pre_sapient_uplifted
+		teto_advisor_notification_primitive_enlighted
+		teto_advisor_notification_research_complete
+		teto_advisor_notification_research_station_lost
+		teto_advisor_notification_science_ship_destroyed
+		teto_advisor_notification_science_ship_under_attack
+		teto_advisor_notification_ships_upgraded
+		teto_advisor_notification_situation_log
+		teto_advisor_notification_spaceborne_encounter
+		teto_advisor_notification_spaceport_lost
+		teto_advisor_notification_spaceport_under_attack
+		teto_advisor_notification_special_project_complete
+		teto_advisor_notification_species_modified
+		teto_advisor_notification_station_under_attack
+		teto_advisor_notification_system_survey_complete
+		teto_advisor_notification_tile_blocker_clear
+		teto_advisor_notification_unidentified_object
+		teto_advisor_notification_wormhole_station_lost
+		teto_advisor_notification_agenda_available
+		teto_advisor_notification_agenda_ready
+		teto_advisor_notification_legendary_leader
+		teto_advisor_notification_planetary_governor
+	}
+}
+
 soundgroup = {
 	name = teto_advisor
 	sort_order = 100
