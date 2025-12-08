@@ -13,22 +13,22 @@
 sound = {
 	name = "teto_advisor_notification_agenda_available_01"
 	file = "vo/teto_advisor/advisor_tutorial_agenda_available_01.wav"
-	volume = 1
+	volume = 2
 }
 sound = {
 	name = "teto_advisor_notification_agenda_ready_01"
 	file = "vo/teto_advisor/advisor_tutorial_agenda_ready_01.wav"
-	volume = 1
+	volume = 2
 }
 sound = {
 	name = "teto_advisor_notification_legendary_leader_01"
 	file = "vo/teto_advisor/advisor_tutorial_legendary_leader_01.wav"
-	volume = 1
+	volume = 2
 }
 sound = {
 	name = "teto_advisor_notification_planetary_governor_01"
 	file = "vo/teto_advisor/advisor_tutorial_planetary_governor_01.wav"
-	volume = 1
+	volume = 2
 }
 
 # Vanilla voice lines
@@ -37,7 +37,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_alien_empire_communication_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -46,7 +46,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_alien_federation_formed_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -55,7 +55,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_alien_spaceport_engaged_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -64,7 +64,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_alien_vessel_encountered_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -73,7 +73,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_building_ruined_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -82,7 +82,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_colonization_progress_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -91,7 +91,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_colony_established_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -100,7 +100,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_colony_ship_destroyed_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -109,7 +109,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_colony_ship_under_attack_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -118,7 +118,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_construction_complete_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -127,7 +127,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_construction_ship_destroyed_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -136,7 +136,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_construction_ship_under_attack_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -145,7 +145,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_debris_analysed_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -154,7 +154,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_discovery_detected_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -163,7 +163,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_enemy_declared_war_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -172,7 +172,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_enemy_invasion_defeated_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -181,7 +181,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_enemy_troops_landing_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -190,7 +190,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_evade_hostile_fleet_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -199,7 +199,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_federation_formed_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -208,7 +208,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_fleet_destroyed_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -217,7 +217,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_frontier_outpost_lost_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -226,7 +226,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_generic_war_declare_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -235,7 +235,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_hostile_fleet_detected_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -244,7 +244,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_hostile_fleet_engaged_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -253,7 +253,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_hostile_station_engaged_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -262,7 +262,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_incoming_transmission_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -271,7 +271,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_invasion_enemy_won_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -280,7 +280,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_invasion_failed_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -289,7 +289,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_invasion_progress_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -298,7 +298,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_invasion_success_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -307,7 +307,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_military_station_lost_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -316,7 +316,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_mining_station_lost_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -325,7 +325,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_observation_post_lost_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -334,7 +334,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_outpost_station_lost_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -343,7 +343,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_planet_in_revolt_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -352,7 +352,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_player_declare_war_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -361,7 +361,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_pre_sapient_uplifted_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -370,7 +370,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_primitive_enlighted_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -379,7 +379,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_research_complete_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -388,7 +388,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_research_station_lost_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -397,7 +397,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_science_ship_destroyed_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -406,7 +406,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_science_ship_under_attack_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -415,7 +415,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_ships_upgraded_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -424,7 +424,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_situation_log_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -433,7 +433,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_spaceborne_encounter_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -442,7 +442,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_spaceport_lost_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -451,7 +451,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_spaceport_under_attack_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -460,7 +460,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_special_project_complete_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -469,7 +469,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_species_modified_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -478,7 +478,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_station_under_attack_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -487,7 +487,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_system_survey_complete_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -496,7 +496,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_tile_blocker_clear_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -505,7 +505,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_unidentified_object_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -514,7 +514,7 @@ soundeffect = {
 	sounds = {
 		sound = advisor_notification_wormhole_station_lost_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -524,7 +524,7 @@ soundeffect = {
 	sounds = {
 		sound = teto_advisor_notification_agenda_available_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -533,7 +533,7 @@ soundeffect = {
 	sounds = {
 		sound = teto_advisor_notification_agenda_ready_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -542,7 +542,7 @@ soundeffect = {
 	sounds = {
 		sound = teto_advisor_notification_legendary_leader_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
@@ -551,7 +551,7 @@ soundeffect = {
 	sounds = {
 		sound = teto_advisor_notification_planetary_governor_01
 	} 
-	volume = 1
+	volume = 2
 	max_audible = 1
 	max_audible_behaviour = fail
 }
