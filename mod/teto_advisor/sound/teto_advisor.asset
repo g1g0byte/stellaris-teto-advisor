@@ -12,22 +12,22 @@
 # Paragon
 sound = {
 	name = "teto_advisor_notification_agenda_available_01"
-	file = "vo/teto_advisor/advisor_notification_agenda_available_01.wav"
+	file = "vo/teto_advisor/advisor_tutorial_agenda_available_01.wav"
 	volume = 1
 }
 sound = {
 	name = "teto_advisor_notification_agenda_ready_01"
-	file = "vo/teto_advisor/advisor_notification_agenda_ready_01.wav"
+	file = "vo/teto_advisor/advisor_tutorial_agenda_ready_01.wav"
 	volume = 1
 }
 sound = {
 	name = "teto_advisor_notification_legendary_leader_01"
-	file = "vo/teto_advisor/advisor_notification_legendary_leader_01.wav"
+	file = "vo/teto_advisor/advisor_tutorial_legendary_leader_01.wav"
 	volume = 1
 }
 sound = {
 	name = "teto_advisor_notification_planetary_governor_01"
-	file = "vo/teto_advisor/advisor_notification_planetary_governor_01.wav"
+	file = "vo/teto_advisor/advisor_tutorial_planetary_governor_01.wav"
 	volume = 1
 }
 
@@ -627,9 +627,11 @@ soundgroup = {
 	name = teto_advisor
 	sort_order = 100
 	soundfileoverrides = {
+		# advisor selection screen voice samples
 		advisor_sample_vo_01 = "vo/teto_advisor/advisor_generic_phrase_01.wav"
 		advisor_sample_vo_02 = "vo/teto_advisor/advisor_generic_phrase_02.wav"
 		advisor_sample_vo_03 = "vo/teto_advisor/advisor_generic_phrase_03.wav"
+		# vanilla voice lines
 		advisor_notification_alien_empire_communication_01 = "vo/teto_advisor/advisor_notification_alien_empire_communication_01.wav"
 		advisor_notification_alien_federation_formed_01 = "vo/teto_advisor/advisor_notification_alien_federation_formed_01.wav"
 		advisor_notification_alien_spaceport_engaged_01 = "vo/teto_advisor/advisor_notification_alien_spaceport_engaged_01.wav"
