@@ -631,6 +631,9 @@ soundgroup = {
 		advisor_sample_vo_01 = "vo/teto_advisor/advisor_generic_phrase_01.wav"
 		advisor_sample_vo_02 = "vo/teto_advisor/advisor_generic_phrase_02.wav"
 		advisor_sample_vo_03 = "vo/teto_advisor/advisor_generic_phrase_03.wav"
+		# TODO: samples after 3 dont play
+		advisor_sample_vo_04 = "vo/teto_advisor/advisor_generic_phrase_04.wav"
+		advisor_sample_vo_05 = "vo/teto_advisor/advisor_generic_phrase_04.wav"
 		# vanilla voice lines
 		advisor_notification_alien_empire_communication_01 = "vo/teto_advisor/advisor_notification_alien_empire_communication_01.wav"
 		advisor_notification_alien_federation_formed_01 = "vo/teto_advisor/advisor_notification_alien_federation_formed_01.wav"
